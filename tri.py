@@ -1,3 +1,6 @@
+"""
+Exo pour trier des matrices
+"""
 from operator import *
 
 a = [

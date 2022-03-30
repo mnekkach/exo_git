@@ -37,3 +37,5 @@ par rapport à la 2eme et la 3eme colonne
 en utilsant itemgetter
 """
 print sorted(a, key = itemgetter(1,2))
+
+#END
